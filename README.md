@@ -12,9 +12,4 @@ It introduces concepts like **animation**, **colliders**, **rigidbody physics**,
 - Smooth running and jumping
 - Simple, fun, and easy to learn
 
----
 
-## How to Play
-1. **Move:** Use **WASD** or arrow keys to run and jump.
-2. **Objective:** Navigate through platforms and reach the goal.
-3. **Avoid falling!** Time your jumps carefully.
